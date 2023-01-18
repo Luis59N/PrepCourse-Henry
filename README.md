@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del Modulo 2 de Henry
+Luis Nossa
+Este proyecto es una prueba de como cerar un repositorio en github y clonarlo a mi escritorio local
